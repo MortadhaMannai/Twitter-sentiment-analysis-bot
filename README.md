@@ -50,7 +50,8 @@ the output from this model is a score from 0 to 1  and a 1 to 5 sentiment indica
 
 * we create call functions to streamline the process
 
-![picture](tw_img/4.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/db9ca555-7b08-4b87-925f-26480c7295f4)
+
 
 
 
@@ -58,20 +59,26 @@ the output from this model is a score from 0 to 1  and a 1 to 5 sentiment indica
 
 we run the process through the calling functions pipeline :
 
-![picture](tw_img/5.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/6b6f55a4-24f6-4b87-889a-90c53cc88bc2)
+
 
 * We enter a search keyword and a number of tweets:
 
-![picture](tw_img/6.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/3687b5f7-617b-428c-968f-6e8058df22da)
+
 
 ## Result
 
-![picture](tw_img/7.png)
-![picture](tw_img/8.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/aedb08f3-ddd6-45f0-8f32-f94d39ba63f4)
+
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/63253c6f-e579-496c-8fdf-a2aea04fa8a2)
+
 
 #### More examples
 
-![picture](tw_img/9.png)
-![picture](tw_img/10.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/74d2bc01-f2e6-413e-9bee-deff7e7093e8)
+
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/d766cb5a-a713-43bd-9c2c-803f64b630aa)
+
 
 
