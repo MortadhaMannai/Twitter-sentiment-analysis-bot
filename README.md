@@ -23,7 +23,8 @@ This project uses Twitter API v2  with the Tweepy library to request tweet data 
 
 * The next function takes the list from the previous function and turns it into a dataframe, we use a cleaning regex function to strip the tweet text from any attached mentions, hashtags, or links and store it in a column we name "clean_tweet".
 
-![picture](tw_img/1.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/00e26cb2-5af2-4995-b89e-78940d5c90ff)
+
 
 * The next function uses a pretrained transformers NLP sentiment analysis model called "BERT" for more information about Bert please refer to the documentation here :  [BERT documentation](https://huggingface.co/transformers/model_doc/bert.html)
 
