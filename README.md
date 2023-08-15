@@ -17,7 +17,8 @@ This project uses Twitter API v2  with the Tweepy library to request tweet data 
 * We start by creating a config.py and storing our access keys and bearer token in variables that we will have access to after importing config, if you don't have Twitter API access credentials you can apply for them here : [apply for access](https://developer.twitter.com/en/apply-for-access)
 * we import the necessary dependencies.
 
-![picture](tw_img/0.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/25c9e1bc-a8bf-4cb9-8550-e5b284ff437b)
+
 
 * next we write a function that uses Tweepy Paginator to make a call to Twitter API using a number of tweets and a search keyword that is obtained from user input, the result is saved into the tweets list, for more information on how to use Paginator and Tweepy, in general, please refer to [Tweepy documentation](https://docs.tweepy.org/en/latest/).
 
