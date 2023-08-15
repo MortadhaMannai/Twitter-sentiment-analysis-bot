@@ -45,7 +45,8 @@ the output from this model is a score from 0 to 1  and a 1 to 5 sentiment indica
 
 * The next function uses the previous WordCloud function to create a wordcloud using tweets for each of the sentiments 
 
-![picture](tw_img/3.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/d055df80-4e40-4d6c-b1d2-461ebcb18c36)
+
 
 * we create call functions to streamline the process
 
