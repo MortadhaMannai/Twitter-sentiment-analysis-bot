@@ -37,7 +37,8 @@ the output from this model is a score from 0 to 1  and a 1 to 5 sentiment indica
 
 * The next function we create is going to be reponsible for creating every WordCloud, it takes as parameters a dataframe and the column to generate the wordcloud based on, for more information about wordcloud you can refere to the documention here :  [WordCloud doc](https://amueller.github.io/word_cloud/)
 
-![picture](tw_img/2.png)
+![image](https://github.com/MortadhaMannai/Twitter-sentiment-analysis-bot/assets/93622509/64ace09d-f674-4c86-9ea5-8a699ac3652b)
+
 
 * Next we build a function that creates a report using the final tweet dataframe, by grouping the data using the stars rate and the sentiment.\
  first, it gives out a general sentiment based on the sentiment most represented in the tweet list then it creates Pie charts to visually represent the breakdown.
